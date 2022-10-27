@@ -34,6 +34,7 @@ Look for __NEW__ against the post titles to find the blogs published after Astro
 - [Explore the Benefits of Astro.js by Building a Quick App](https://prismic.io/blog/astro-js-tutorial) __NEW__
 - [Experiments with Astro and the Shared Element Transition API](https://www.maxiferreira.com/blog/astro-page-transitions/) __NEW__
 - [Building serverless applications with Fauna + GraphQL + Astro](https://bholmes.dev/blog/serverless-apps-fauna-gql-astro/) __NEW__
+- [Implementing Astro live previews in headless Statamic](https://maciekpalmowski.dev/implementing-live-previews-in-headless-statamic-when-using-astro/) __NEW__
 
 
 ## 📹 Videos/Screencasts/Twitch
